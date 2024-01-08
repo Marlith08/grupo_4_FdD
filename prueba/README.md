@@ -5,7 +5,9 @@ La literatura LGBT de Brasil, entendida como literatura escrita por autores bras
 ## Prueba para mostrar imágenes
 [link de la fuente](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 ![Imagen de un libro](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bom-Crioulo.jpg/300px-Bom-Crioulo.jpg)
-Integrantes:
+
+## Integrantes:
+![Imagen de un libro](prueba/IMG_20240108_123519.jpg)
 Leily Llanos
 Magno Mamani
 Melissa Quispe
